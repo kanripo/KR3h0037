@@ -1,0 +1,12 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 畫鑒
+#+DATE: 2015-08-24 23:14:54.975102
+#+PROPERTY: ID KR3h0037
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 題詞
+<pb:KR3h0037_WYG_002-1a>¶
+畫鑑題詞¶
+采真子妙於考古在京師時與今鑑畫博士柯君敬仲¶
+論畫遂著此書用意精到悉有據依惜乎尚多疏畧乃¶
+為删補編次成袠名曰畫鑒後有高識賞其知言采真¶
+子東楚湯垕君載之自號也¶
